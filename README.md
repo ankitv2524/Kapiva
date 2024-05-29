@@ -1,9 +1,11 @@
-<h1> Kapiva warehouse Stock Analysis </h1>
+<h1 style="font-size: 72px;"> Kapiva warehouse Stock Analysis </h1>
 
 
 
+<button onclick="window.location.href='https://docs.google.com/spreadsheets/d/1PqG9w70dPktWrDqwG4JrpHAQG9z2zed8NRvl4MnpsG8/edit?usp=sharing'">
+    <img src="https://cdn.pixabay.com/photo/2019/06/25/12/59/click-here-4298145_1280.png" alt="Icon" style="width: 100px; height: auto; vertical-align: middle;"> Click on the red button above. top open the google sheet file
+</button>
 
-<button><img src="[https://cdn.pixabay.com/photo/2019/06/25/12/59/click-here-4298145_1280.png](https://docs.google.com/spreadsheets/d/1PqG9w70dPktWrDqwG4JrpHAQG9z2zed8NRvl4MnpsG8/edit?usp=sharing)" alt="Icon" style="width: 20px; height: auto; vertical-align: middle;"> Click Here</button>
 
 
 <h2> raw data </h2>
@@ -19,7 +21,7 @@
 
 
 <h2> Analysis </h2>
-![image](https://github.com/ankitv2524/Kapiva/assets/32640079/d31762d1-824a-4120-b72d-c7d30f6d946c)
+
 
 ![image](https://github.com/ankitv2524/Kapiva/assets/32640079/8495376d-26cf-4af5-8f5f-a4f70389fca0)
 ![image](https://github.com/ankitv2524/Kapiva/assets/32640079/328e15a1-fa0a-4ef7-98f0-4ae7bb0c1b35)
